@@ -1,9 +1,9 @@
 # Treeify. md to HTML
 Convert your Markdown files to HTML, and create a webpage that links to all of them.
 
-+ Install pandoc `sudo apt install pandoc`
++ Install [pandoc](https://pandoc.org/): `sudo apt install pandoc`
 + Place your files in the *markdown* folder
-+ Run the *treeify.sh* script
++ Run the `treeify.sh` script
 + Find all the converted files in the *html* folder, ready to be exported for the web!
 
 Every converted file will keep the original name. 
